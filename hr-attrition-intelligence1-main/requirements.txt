@@ -1,0 +1,24 @@
+# Core runtime dependencies
+pandas
+requests
+beautifulsoup4
+urllib3
+schedule
+Faker
+python-dotenv
+streamlit
+gspread
+matplotlib
+seaborn
+reportlab
+schedule
+# Database dependencies
+sqlalchemy
+psycopg2-binary
+
+# HTML parsing speedup (optional but recommended)
+lxml
+
+ google-api-python-client
+ google-auth-httplib2
+ google-auth-oauthlib
